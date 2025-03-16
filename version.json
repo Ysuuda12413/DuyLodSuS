@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "offset": "2b67309334b54dab",
+    "files": [
+        {
+            "url": "https://yourdomain.com/update/file1.exe",
+            "path": "file1.exe"
+        },
+        {
+            "url": "https://yourdomain.com/update/file2.dll",
+            "path": "libs/file2.dll"
+        }
+    ]
+}
