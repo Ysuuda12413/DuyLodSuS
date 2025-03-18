@@ -3,19 +3,19 @@
     "offset": "2b67309334b54dab",
     "files": [
         {
-            "url": "https://github.com/Ysuuda12413/DuyLodSuS/raw/refs/heads/main/SpashAPIAtlantis.dll",
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/SpashAPIAtlantis.dll",
             "path": "SpashAPIAtlantis.dll"
         },
         {
-            "url": "https://github.com/Ysuuda12413/DuyLodSuS/raw/refs/heads/main/Injector.exe",
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/Injector.exe",
             "path": "bin/Injector.exe"
         },
          {
-            "url": "https://github.com/Ysuuda12413/DuyLodSuS/raw/refs/heads/main/VMProtectSDK64.dll",
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/VMProtectSDK64.dll",
             "path": "bin/VMProtectSDK64.dll"
         },
         {
-            "url": "https://github.com/Ysuuda12413/DuyLodSuS/raw/refs/heads/main/amdxx64.dll",
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/amdxx64.dll",
             "path": "bin/amdxx64.dll"
         }
     ]
