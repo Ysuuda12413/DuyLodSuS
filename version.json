@@ -17,6 +17,10 @@
         {
             "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/amdxx64.dll",
             "path": "bin/amdxx64.dll"
+        },
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/UI.exe",
+            "path": "UI.exe"
         }
     ]
 }
