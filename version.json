@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "offset": "2b67309334b54dab",
     "files": [
         {
@@ -7,10 +7,22 @@
             "path": "SpashAPIAtlantis.dll"
         },
         {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/SpashAPISubZero.dll",
+            "path": "SpashAPISubZero.dll"
+        },
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/SubZeros.dll",
+            "path": "SubZeros.dll"
+        },
+        {
             "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/Injector.exe",
             "path": "bin/Injector.exe"
         },
-         {
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/UI.exe",
+            "path": "UI.exe"
+        },
+        {
             "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/VMProtectSDK64.dll",
             "path": "bin/VMProtectSDK64.dll"
         },
@@ -19,8 +31,20 @@
             "path": "bin/amdxx64.dll"
         },
         {
-            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/UI.exe",
-            "path": "UI.exe"
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/libcrypto-3-x64.dll",
+            "path": "bin/libcrypto-3-x64.dll"
+        },
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/libssl-3-x64.dll",
+            "path": "bin/libssl-3-x64.dll"
+        },
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/xxhash.dll",
+            "path": "bin/xxhash.dll"
+        },
+        {
+            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/zstd.dll",
+            "path": "bin/zstd.dll"
         }
     ]
 }
