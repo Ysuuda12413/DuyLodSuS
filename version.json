@@ -19,10 +19,6 @@
             "path": "bin/Injector.exe"
         },
         {
-            "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/UI.exe",
-            "path": "UI.exe"
-        },
-        {
             "url": "http://raw.githubusercontent.com/Ysuuda12413/DuyLodSuS/main/VMProtectSDK64.dll",
             "path": "bin/VMProtectSDK64.dll"
         },
